@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title> Feed RSS- sitios dog friendly</title>
-    <link>https://lauperezz.github.io/2526lauperez/</link>
+    <link>https://lauperezz.github.io/2526lauperez</link>
     <description>Novedades de la página</description>
     <item>
       <title>Novedad en la página1</title>
@@ -18,3 +18,4 @@
       </item>
   </channel>
 </rss>
+
